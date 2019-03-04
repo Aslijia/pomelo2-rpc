@@ -1,0 +1,33 @@
+{
+  "name": "pomelo2-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "bearcat-buffer": "0.1.x",
+    "crc": "^3.8.0",
+    "mqtt-connection": "^4.0.0",
+    "node-uuid": "^1.4.8",
+    "pomelo2-loader": "^1.0.0",
+    "pomelo2-logger": "^1.0.0",
+    "stream-pkg": "0.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aslijia/pomelo2-rpc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aslijia/pomelo2-rpc/issues"
+  },
+  "homepage": "https://github.com/Aslijia/pomelo2-rpc#readme"
+}
