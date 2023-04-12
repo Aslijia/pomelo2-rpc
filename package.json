@@ -1,6 +1,6 @@
 {
     "name": "@pomelo2/rpc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "main": "./lib/index.js",
     "types": "./index.d.ts",
@@ -9,10 +9,11 @@
         "test": "test"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest --verbose ./lib"
     },
     "files": [
-        "lib"
+        "lib",
+        "index.d.ts"
     ],
     "repository": {
         "type": "git",
