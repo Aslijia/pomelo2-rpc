@@ -1,5 +1,3 @@
-.project
-node_modules/
-coverage.html
-lib-cov/
-coverage.html
+
+node_modules
+package-lock.json
